@@ -9,6 +9,8 @@ is opinionated by design.
 
 as of 2026-10-11
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Every LLM gateway reinvents its own request/response dialect, so every
